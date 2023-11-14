@@ -9,8 +9,6 @@
 
 🔭 Currently working on **waste not - a food sharing web app that connects like-minded individuals with the goal to reduce food waste**
 
-⚡ Fun fact: **'Greta' is just a thinly disguised anagram for 'Great'**
-
 <p align="left">
 </p>
 
